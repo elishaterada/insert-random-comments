@@ -1,0 +1,19 @@
+{
+  "name": "insert-random-comments",
+  "main": "./lib/insert-random-comments",
+  "version": "0.0.0",
+  "description": "Inserts random code comments.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "insert-random-comments:insert"
+  },
+  "repository": "https://github.com/elishaterada/insert-random-comments",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "season": "~5.3.0"
+  }
+}
