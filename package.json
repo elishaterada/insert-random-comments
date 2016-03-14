@@ -1,10 +1,9 @@
 {
   "name": "insert-random-comments",
   "main": "./lib/insert-random-comments",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Inserts random code comments.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "insert-random-comments:insert"
   },
